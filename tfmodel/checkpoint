@@ -1,0 +1,2 @@
+model_checkpoint_path: "vae_sonic_onecnn_iter2000.tfmodel"
+all_model_checkpoint_paths: "vae_sonic_onecnn_iter2000.tfmodel"

@@ -1,0 +1,16 @@
+*.swp
+*.swo
+*__pycache__*
+*.pyc
+*.mat
+*.h5
+*.npy
+*.npz
+*.log
+*.out
+*.mco
+*-checkpoint.ipynb
+*~
+.DS_Store
+*.caffemodel
+*.tfmodel*
