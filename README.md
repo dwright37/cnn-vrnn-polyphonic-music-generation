@@ -7,8 +7,8 @@ the variational autoencoder (VAE) as a stochastic generative model [3,4], as wel
 ## Architecture
 Our network consists of a convolutional neural network (CNN) to learn a latent representation of one bar of music, and a variational recurrent autoencoder for generating novel sequences of music.
 
-![latent\_rep]('./images/latent_rep.png')
-![vrnn]('./enc_dec.png')
+![latent\_rep](./images/latent_rep.png)
+![vrnn](./enc_dec.png)
 
 ## Running the code
 Our model is implemented in python 2 (2.7). Packages that you should have installed:
@@ -26,8 +26,6 @@ audio\_files/. Logs are written out to tb/. Output examples when testing are wri
 final results is packaged with this repo under tb/.
 
 ## References
-___
-
 [1] BOWMAN , S., V ILNIS , L., V INYALS , O., D AI , A., J OZEFOWICZ , R., AND B ENGIO , S. Generating Sentences from a Continuous Space. 2016.
 
 [2] FABIUS , O., AND VAN A MERSFOORT , J. R. Variational recurrent auto-encoders. arXiv preprint arXiv:1412.6581 (2014).
