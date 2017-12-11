@@ -1,4 +1,6 @@
 # A CNN-VRNN Model for Polyphonic Music Generation
+Stella Koh, Dustin Wright, and Stephanie Chen
+
 We present a recurrent variational autoencoder with convolutional neural network which can be trained to generate musically interesting and diverse polyphonic tunes. The user can 
 give an example of a song which has the style or feel of the song they wish to generate, and our model learns to generate variations of that song. Our architecture is inspired by 
 the variational autoencoder (VAE) as a stochastic generative model [3,4], as well as recent methods using RNNs in VAEs for language generation [1] and symbolic domain music generation
